@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Zakat Payment</string>
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+    <string name="copyright">Copyright: LembagaZakatSelangor</string>
+    <string name="About_text"><a href="https://github.com/111wanna/zakatcalculator">Source Code Link</a></string>
+    <string name="devName">Name: WAN NOR SUHAILA BINTI WAN ADNAN</string>
+    <string name="devID">Student ID: 2020489186</string>
+    <string name="group">Group: D1CS2405A</string>
+    <string name="pCode">Program Code: CS240</string>
+    <string name="about">About</string>
+</resources>
